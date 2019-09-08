@@ -1,2 +1,2 @@
 users = ["bob","jim","ann","hillary"]
-def great_user (users)
+def great_user (user)
